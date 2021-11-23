@@ -6,6 +6,7 @@
     background-color: #a8dadc;
     padding:.5em;
     width: 80%;
+    border-radius: 20px;
     
 }
 
@@ -22,6 +23,7 @@
 
 .completed {
     text-decoration: line-through;
+    text-decoration-thickness: 3px;
 }
 
 .complete-btn {
