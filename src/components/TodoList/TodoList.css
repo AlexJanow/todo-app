@@ -1,0 +1,12 @@
+.todo-container {
+    background-color: #457b9d;
+    border: 5px solid #f1faee;
+    border-radius: 20px;
+   
+}
+
+.todo-list {
+    display: flex;
+    flex-direction: column;
+    
+}
